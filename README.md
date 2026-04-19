@@ -25,7 +25,7 @@ Requer **Python 3.10+** instalado.
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/luraph-deobfuscator.git
+git clone https://github.com/ExeDevelopment/LuraphDeobfuscator-Gemini-and-ChatGPT.git
 cd luraph-deobfuscator
 
 # Rodar direto com Python (sem instalar nada)
