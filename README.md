@@ -26,7 +26,7 @@ Requer **Python 3.10+** instalado.
 ```bash
 # Clonar o repositório
 git clone https://github.com/ExeDevelopment/LuraphDeobfuscator-Gemini-and-ChatGPT.git
-cd luraph-deobfuscator
+cd LuraphDeobfuscator-Gemini-and-ChatGPT
 
 # Rodar direto com Python (sem instalar nada)
 python main.py
@@ -60,7 +60,7 @@ O `.exe` será gerado em `dist/LuraphDeobfuscator.exe`. Basta arrastar o `.lua` 
 ## Estrutura do projeto
 
 ```
-luraph-deobfuscator/
+LuraphDeobfuscator-Gemini-and-ChatGPT/
 ├── main.py              # CLI principal / interface interativa
 ├── decoder.py           # Extração e decodificação base85 do payload
 ├── bytecode_parser.py   # Parser de bytecode Lua 5.1
